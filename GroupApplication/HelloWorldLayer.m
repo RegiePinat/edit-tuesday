@@ -74,7 +74,7 @@
 
     
     
-    if( (self=[super initWithColor:ccc4(134, 59, 183, 301)]) ) {
+    if( (self=[super initWithColor:ccc4(134, 57, 186, 301)]) ) {
         pauseScreenUp = FALSE;
         
         CGSize windowSize = [CCDirector sharedDirector].winSize;
